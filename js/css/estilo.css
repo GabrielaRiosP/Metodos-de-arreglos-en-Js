@@ -1,0 +1,18 @@
+.container {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 50px;
+    padding: 20px;
+    background-color: rgb(241, 189, 205);
+    text-align: justify;
+}
+
+.container > h4 {
+    text-align: center;
+    font-size: larger;
+}
+
+
+
+#resumen {
+    font-size: medium;
+}
